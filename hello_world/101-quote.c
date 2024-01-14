@@ -1,7 +1,8 @@
 #include<unistd.h>
 /**
  * main - entry point
- * Return: Always 1
+ * write - output
+ * Return: 1
  */
 int main(void)
 {
