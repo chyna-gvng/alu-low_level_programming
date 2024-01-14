@@ -1,6 +1,6 @@
 #include<unistd.h>
 /**
- * main - entry point
+ * main - main block
  * write - output
  * Return: 1
  */
