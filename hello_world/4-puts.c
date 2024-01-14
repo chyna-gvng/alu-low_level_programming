@@ -1,6 +1,6 @@
 #include<stdio.h>
 /**
- * main - main block
+ * main - main function
  * puts - output
  * Return: 0
  */
