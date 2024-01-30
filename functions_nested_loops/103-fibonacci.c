@@ -20,4 +20,3 @@ sum += next;
 printf("%i\n", sum);
 return (0);
 }
-
