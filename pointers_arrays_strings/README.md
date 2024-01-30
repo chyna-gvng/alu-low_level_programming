@@ -1,2 +1,2 @@
 ### C Programming
-Readme file for *hello_world* directory.
+Readme file for *pointers_arrays_strings* directory.
