@@ -18,4 +18,3 @@ _putchar(alpha_lower);
 _putchar('\n');
 }
 }
-
