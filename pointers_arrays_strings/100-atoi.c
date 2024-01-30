@@ -19,3 +19,4 @@ break;
 } while (*s++);
 return (sign *num);
 }
+
