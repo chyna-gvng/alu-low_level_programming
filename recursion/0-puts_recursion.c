@@ -18,4 +18,3 @@ else
 _putchar('\n');
 }
 }
-
