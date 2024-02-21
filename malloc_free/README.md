@@ -1,2 +1,2 @@
 ### C Programming
-Readme file for *recursion* directory.
+Readme file for *malloc_free* directory.
