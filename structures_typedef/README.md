@@ -1,3 +1,2 @@
 ### C Programming
-Readme file for *0x0E-structures_typedef* directory.  
-Highlight: Structures & *typedef*
+Readme file for *variables_if_else_while* directory.
